@@ -1,0 +1,7 @@
+C:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\manager\WEB-INF
+
+edit change values from 524500 t0 5245000
+Restart the apache tomcat service then open browser and localhost:8080
+
+Jenkins is not build a build tool - It is a continuous integration Tool.
+Build Tools are Graddle/Maven/Ant 
